@@ -1,3 +1,4 @@
+# Highlights of my finance projects
 - eSports Industry Report, Jun 2020
 - Casper: stock pitch (NYSE: CSPR) (Credit Suisse Virtual Stock Pitch Competition) Finalist, Jun 2020
 - The British National Strategic Fund (McGill International Portfolio Challenge) Semifinalist, Nov 2020
