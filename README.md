@@ -5,3 +5,4 @@
 - Manchester United PLC: stock pitch (NYSE: MANU), Nov 2020
 - NutriScan (EY Challenge Competition) 1st place, Dec 2020
 - Kinaxis Inc: stock pitch (TSE: KXS), Feb 2021
+- Good Natured Products: M&A Pitch (TSXV: GDNP), Aug 2021
